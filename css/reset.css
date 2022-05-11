@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Da+2:wght@400;500;600;700&family=Barlow:ital,wght@0,600;1,600&family=Fraunces:opsz,wght@9..144,700;9..144,900&family=Josefin+Slab:ital,wght@0,100;0,200;0,300;1,100;1,200&family=Mulish:ital,wght@0,200;0,300;0,500;1,200;1,300&family=Nunito+Sans:wght@300;400;600;800&family=Oswald&family=Poppins:wght@100&family=Roboto+Condensed:wght@300&family=Rowdies&family=Sarala&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Mulish', sans-serif;
+}
+
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
